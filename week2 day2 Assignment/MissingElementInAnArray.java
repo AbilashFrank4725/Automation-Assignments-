@@ -19,10 +19,9 @@ public class MissingElementInAnArray {
 
 			// check if the iterator variable is not equal to the array values respectively
 			if (arr[i] != j) {
-				System.out.println(j);
-			
+							
 				// print the number
-				
+				System.out.println(j);
 				// once printed break the iteration
 				break;
 				}
